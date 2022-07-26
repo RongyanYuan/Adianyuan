@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Adian Yuan
-- 👀 I’m interested in whatever can makes money
+- 👋 Hi, I’m Rongyan
+- 👀 I'm interested quant financing
 - 🌱 I’m currently learning coding
 - 💞️ I’m looking to collaborate on quant fin
 - 📫 How to reach me adrianrongyanyun@gmail.com
